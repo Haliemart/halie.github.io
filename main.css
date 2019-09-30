@@ -88,3 +88,9 @@ footer{
 .comment{
 	height: 6em;
 }
+
+.imageFull{
+	position: absolute;
+	width: 98.8%;
+    z-index: -1;
+}
