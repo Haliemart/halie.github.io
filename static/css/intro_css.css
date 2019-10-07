@@ -1,0 +1,49 @@
+  
+/* intro_css.css*/
+/* Author: Halie Martineau */
+/* ISCS-01 Spring 2017 */
+/* Date: February 27, 2017 */
+
+    
+ body
+    {
+    
+        font-family: "Courier New", Courier, monospace;
+        font-size: 1em;
+        color: #000000; /*black*/
+        margin: 25px 25px 25px 25px;
+    }
+    
+     h1
+        {
+            font-family: "Courier New", Courier, monospace;
+            font-size: 30px;
+            color: #000000; /*black*/
+            font-weight: 100;
+            
+        }
+        
+        
+    a:link
+    {
+    color: #000000;
+    text-decoration: none;
+    }
+    
+    a:visited
+    {
+    color: #000000;
+    text-decoration: none;
+    }
+ 
+    a:hover
+    {
+    color: #FF0000;
+    text-decoration: underline;
+    }
+
+    a:active
+    {
+    color: #696969;
+    text-decoration: none;
+    }

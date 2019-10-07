@@ -1,0 +1,122 @@
+
+/* main.css*/
+/* Author: Halie Martineau */
+/* ISCS-01 Spring 2017 */
+/* Date: February 24, 2017 */
+
+
+    body
+    {
+        background-image: url("../images/constitution.png");
+        background-size: 2000px 20000px;
+        background-repeat: no-repeat;
+        background-color: #F5F5F5; /*offwhite*/
+        font-family: Verdana, Geneva, sans-serif;
+        font-size: 1em;
+        color: #000000; /*black*/
+        margin: 25px 25px 25px 25px;
+    }
+        p
+        {
+        font-family: Verdana, Geneva, sans-serif;
+        font-size: 14px;
+        color: #000000; /*black*/
+        }
+
+        h1
+        {
+            font-family: "Courier New", Courier, monospace;
+            font-size: 30px;
+            color: #800000; /*maroon*/
+            
+        }
+
+        h2
+        {
+            font-family:"Lucida Console", Monaco, monospace;
+            font-size: 20px;
+            color: #0000CD; /* navy blue*/
+           
+        }
+
+        h3
+        {
+            font-family:"Courier New", Courier, monospace;
+            font-size: inherit;
+            color:#800000 ; /*maroon*/
+           
+        }
+
+        img
+        {   
+            width: 30%;
+            float: right;
+            border-style: groove;
+            border-color: #ff0000;
+            border-width: 5px;
+        }
+        
+        
+    /* Psuedo-class Rules*/
+    a:link
+    {
+    color: #0000CD;
+    text-decoration: none;
+    }
+    
+    a:visited
+    {
+    color: #000000;
+    text-decoration: none;
+    }
+ 
+    a:hover
+    {
+    color: #FF0000;
+    text-decoration: underline;
+    }
+
+    a:active
+    {
+    color: #696969;
+    text-decoration: none;
+    }
+    /* Class-Type Rules*/
+    .normalText
+    {
+    font-family:Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    color:  #404040 /* dark grey*/
+    }
+    
+    .largeTitle
+    {
+    font-family:Impact, Charcoal, sans-serif;
+    font-size: 50px;
+    color: #4d0000; /* dark maroon*/  
+    }
+    
+    .subTitle
+    {
+    font-family:Impact, Charcoal, sans-serif;
+    font-size: 25px;
+    color: #FF4500; /* orange red*/  
+    }
+    
+    .emphasize
+    {
+    font-family:Tahoma, Geneva, sans-serif;
+    font-size: inherit;
+    color: #FF00FF; /* magenta*/
+    font-weight: bold;
+    font-style: italic;
+    }
+    
+    .blockQuote
+    {
+     font-family:"Lucida Console", Monaco, monospace;
+     font-size: inherit;
+     padding: 20px 20px 20px 20px;
+    }
+
+ 

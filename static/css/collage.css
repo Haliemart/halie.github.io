@@ -1,0 +1,121 @@
+/* collage.css*/
+/* Author: Halie Martineau */
+/* ISCS-01 Spring 2017 */
+/* Date: March 24, 2017 */
+
+.img
+{
+    width: 300px;
+    height: 500px;
+}
+
+.img1
+{
+    width: 300px;
+    height: 390px;
+}
+
+.logo
+{
+    border: 0px;
+    width: 90px;
+    height: 130px;
+}
+
+#logo
+{
+    width: 5px;
+    float:left;
+    position:fixed;
+    top: 150px;
+    left: 150px;
+}
+#img1
+{
+    width: 30px;
+    position: relative;
+    top: 10px;
+    bottom: auto;
+    left: 25px;
+}
+
+#img2
+{
+    width: 150px;
+    position: relative;
+    top: -330px;
+    bottom: -330px;
+    left: 325px;
+}
+
+#img3
+{
+    width: 150px;
+    position: relative;
+    top: -900px;
+    bottom: -900px;
+    left: 625px;
+}
+
+#img4
+{
+    width: 150px;
+    position: relative;
+    top: -1000px;
+    bottom: -1000px;
+    left: 25px;
+}
+
+#img5
+{
+    width: 150px;
+    position: relative;
+    top: -1339px;
+    bottom: -1339px;
+    left: 325px;
+}
+
+#img6
+{
+    width: 150px;
+    position: relative;
+    top: -1920px;
+    bottom: -1920px;
+    left: 625px;
+}
+
+#img7
+{
+    width: 150px;
+    position: relative;
+    top: -2050px;
+    bottom: -2050px;
+    left:  25px;
+}
+
+#img8
+{
+    width: 150px;
+    position: relative;
+    top: -2400px;
+    bottom: -2400px;
+    left: 325px;
+}
+
+#img9
+{
+    width: 150px;
+    position: relative;
+    top: -3000px;
+    bottom: -3000px;
+    left: 625px;
+}
+
+#img10
+{
+    width: 150px;
+    position: relative;
+    top: -3100px;
+    bottom: -3100px;
+    left:  25px;
+}
