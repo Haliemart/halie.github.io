@@ -91,7 +91,8 @@ footer{
 
 .imageFull{
 	position: absolute;
-	width: 90%;
+	width: 98.74%;
+	height: auto;
     z-index: -1;
 }
 
